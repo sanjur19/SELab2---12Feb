@@ -1,0 +1,26 @@
+Hello World
+Follow this Hello World exercise to learn GitHub's pull request workflow.
+
+In this article
+Introduction
+Step 1: Create a repository
+Step 2: Create a branch
+Step 3: Make and commit changes
+Step 4: Open a pull request
+Step 5: Merge your pull request
+Conclusion
+Next steps
+Further reading
+Introduction
+This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests. You'll create your own Hello World repository and learn GitHub's pull request workflow, a popular way to create and review code.
+
+In this quickstart guide, you will:
+
+Create and use a repository.
+Start and manage a new branch.
+Make changes to a file and push them to GitHub as commits.
+Open and merge a pull request.
+
+
+
+THIS IS FOR THE ASSIGNMENGT 2
